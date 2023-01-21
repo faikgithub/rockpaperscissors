@@ -2,7 +2,7 @@ package j000_CodeChallange;
 
 import java.util.Scanner;
 
-public class TasKagitMakas {
+public class RockPaperScissors {
 
 
     public static void main(String[] args) {
